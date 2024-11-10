@@ -5,5 +5,7 @@ Prerequisite Skill: Python programming, TensorFlow or PyTorch , OpenCV
 
 Techiques Used: Convolutioanl Neural Network(CNN), Recurrent Neural Network(RNN)
 
+Dataset Used: FER2013 Dataset
+
 Conclusion: The model will detect emotions such as happiness, sadness, anger, and surprise by analyzing facial expressions and body language. The model will be optimized for performance on live video feeds.
 
